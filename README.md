@@ -39,6 +39,11 @@ I enjoy learning new technologies, solving problems, and building projects that 
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
+### 🐍 My GitHub Contribution Snake
+
+![Snake Animation](./dist/github-snake.gif)
+
 ---
 
 ⭐ *Thanks for visiting my profile!*
