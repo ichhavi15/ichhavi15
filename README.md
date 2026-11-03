@@ -48,6 +48,16 @@ I enjoy learning new technologies, solving problems, and building projects that 
 ### ✨ What I'm Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;B.Tech+Computer+Science+Student;Learning+Python+and+Java;Exploring+Cloud+Computing" alt="Typing SVG" />
+
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichhavi15&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhavi15&layout=compact&theme=tokyonight)
+
 ---
 
 ⭐ *Thanks for visiting my profile!*
