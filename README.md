@@ -17,7 +17,7 @@ I enjoy learning new technologies, solving problems, and building projects that 
 ### 🛠️ Technical Skills
 
 * **Programming:** Python, Java, JavaScript
-* **Data Analytics:** Excel, SQL, Power BI
+* **Data Analytics:** Excel, SQl
 * **Web Development:** HTML, CSS
 * **Cloud:** AWS
 * **Tools:** Git, GitHub, VS Code
