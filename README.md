@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Chhavi Agrawal
 
-<!--
-**ichhavi15/ichhavi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech Computer Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **GLA University, Mathura**, passionate about Data Analytics, Technology, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and building projects that turn data into meaningful insights.
+
+### 🚀 About Me
+
+* 🎓 Pursuing B.Tech in Computer Science.
+* 📊 Interested in Data Analytics & Business Intelligence.
+* 💻 Learning Python, SQL and JavaScript.
+* ☁️ Exploring Cloud Computing and AWS.
+* 🌱 Always learning and improving my technical skills.
+
+### 🛠️ Technical Skills
+
+* **Programming:** Python, Java, JavaScript
+* **Data Analytics:** Excel, SQL, Power BI
+* **Web Development:** HTML, CSS
+* **Cloud:** AWS
+* **Tools:** Git, GitHub, VS Code
+
+### 🎯 Current Goals
+
+* Improving my programming skills.
+* Building Data Analytics projects.
+* Learning new technologies.
+* Preparing for software and data analyst opportunities.
+
+### 🤝 Let's Connect
+
+* LinkedIn: https://www.linkedin.com/in/chhavi-agrawal-612644326/
+* GitHub: [ichhavi15](https://github.com/ichhavi15)
+
+---
+
+⭐ *Thanks for visiting my profile!*
