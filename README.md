@@ -34,6 +34,11 @@ I enjoy learning new technologies, solving problems, and building projects that 
 * LinkedIn: https://www.linkedin.com/in/chhavi-agrawal-612644326/
 * GitHub: [ichhavi15](https://github.com/ichhavi15)
 
+
+### 🌈 My 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ---
 
 ⭐ *Thanks for visiting my profile!*
